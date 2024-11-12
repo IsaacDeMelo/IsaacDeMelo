@@ -10,6 +10,7 @@
 
 _Sou um **Desenvolvedor Full-Stack** 👨‍💻 apaixonado por resolver problemas, criar soluções inovadoras e por tornar a contribuição para o código aberto mais acessível 🚀  criando tecnologia para elevar as pessoas! Algumas tecnologias com as quais gosto de trabalhar incluem **Node JS🐍**: *Express, Ejs, React Native*, e manipulo dados utilizando **MongoDB🍃**, **FireBase🔥**, **MySQL🐳**._ 
 
+Portifólio: https://isaacdemelo.netlify.app
 ##
 
 ### :man_technologist: **Tecnologias**
